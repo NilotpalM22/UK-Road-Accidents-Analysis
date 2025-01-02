@@ -2,6 +2,8 @@
 
 This project analyzes UK road accidents data using Python to uncover insights, predict accident severity, and propose road safety improvements.
 
+Data set - https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
+
 ## Features
 - Exploratory Data Analysis (EDA)
 - Machine Learning Models:
